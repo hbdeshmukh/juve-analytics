@@ -1,26 +1,26 @@
-Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
-Andrea Pirlo\71c5f16f,it ITA,MF,32,37,37,3315,36.8,3,12,3,0,2,5,0,0.08,0.33,0.41,0.08,0.41,Matches
-Gianluigi Buffon\e40d028b,it ITA,GK,33,35,35,3150,35.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
-Claudio Marchisio\e304acd5,it ITA,MF,25,36,35,3040,33.8,9,4,9,0,0,7,0,0.27,0.12,0.38,0.27,0.38,Matches
-Giorgio Chiellini\e85fb9b8,it ITA,DF,26,34,34,3023,33.6,2,1,2,0,0,7,0,0.06,0.03,0.09,0.06,0.09,Matches
-Andrea Barzagli\7c0000fd,it ITA,DF,30,35,34,3013,33.5,1,0,0,1,1,3,0,0.03,0.00,0.03,0.00,0.00,Matches
-Stephan Lichtsteiner\99b1d0e6,ch SUI,DFMF,27,35,34,2957,32.9,2,1,2,0,0,6,0,0.06,0.03,0.09,0.06,0.09,Matches
-Arturo Vidal\67cdbc0e,cl CHI,MF,24,33,30,2632,29.2,7,4,6,1,1,12,1,0.24,0.14,0.38,0.21,0.34,Matches
-Mirko Vučinić\b04b9530,me MNE,FW,27,32,29,2292,25.5,9,8,9,0,0,3,1,0.35,0.31,0.67,0.35,0.67,Matches
-Leonardo Bonucci\52ec54d0,it ITA,DF,24,32,28,2641,29.3,2,0,2,0,0,6,1,0.07,0.00,0.07,0.07,0.07,Matches
-Simone Pepe\1f3674c2,it ITA,FWMF,27,31,25,2197,24.4,6,3,6,0,0,6,0,0.25,0.12,0.37,0.25,0.37,Matches
-Alessandro Matri\58d97e77,it ITA,FW,26,31,23,1913,21.3,10,4,10,0,0,4,0,0.47,0.19,0.66,0.47,0.66,Matches
-Paolo De Ceglie\bdc1a432,it ITA,DF,24,21,16,1351,15.0,1,2,1,0,0,3,1,0.07,0.13,0.20,0.07,0.20,Matches
-Emanuele Giaccherini\1c50f354,it ITA,FWMF,26,23,9,1209,13.4,1,2,1,0,0,2,0,0.07,0.15,0.22,0.07,0.22,Matches
-Fabio Quagliarella\ee4f2f3b,it ITA,FW,28,23,9,888,9.9,4,0,4,0,0,2,0,0.41,0.00,0.41,0.41,0.41,Matches
-Marcelo Estigarribia\188a2362,py PAR,DFMF,23,14,9,718,8.0,1,0,1,0,0,0,0,0.13,0.00,0.13,0.13,0.13,Matches
-Martín Cáceres\e94d79e3,uy URU,DF,24,11,6,715,7.9,1,0,1,0,0,0,0,0.13,0.00,0.13,0.13,0.13,Matches
-Marco Borriello\a889ffc7,it ITA,FW,29,13,6,589,6.5,2,1,2,0,0,1,0,0.31,0.15,0.46,0.31,0.46,Matches
-Alessandro Del Piero\80bc263c,it ITA,FWMF,36,23,4,509,5.7,3,2,3,0,0,0,0,0.53,0.35,0.88,0.53,0.88,Matches
-Miloš Krasić\21dcdd28,rs SRB,MF,26,7,4,303,3.4,1,0,1,0,0,0,0,0.30,0.00,0.30,0.30,0.30,Matches
-Simone Padoin\5eb72339,it ITA,DFMF,27,6,3,302,3.4,1,0,1,0,0,0,0,0.30,0.00,0.30,0.30,0.30,Matches
-Marco Storari\fb5eb6e0,it ITA,GK,34,3,3,270,3.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
-Fabio Grosso\db77a624,it ITA,DFMF,33,2,2,180,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
-Michele Pazienza\9f5d69e7,it ITA,MF,28,8,1,150,1.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
-Luca Marrone\ea468ea8,it ITA,DFMF,21,3,1,116,1.3,1,1,1,0,0,0,0,0.78,0.78,1.55,0.78,1.55,Matches
-Eljero Elia\05cb19c5,nl NED,FWMF,24,4,1,95,1.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls.1,Ast.1,G+A,G-PK.1,G+A-PK
+Andrea Pirlo,it ITA,MF,32,37,37,3315,36.8,3,12,3,0,2,5,0,0.08,0.33,0.41,0.08,0.41
+Gianluigi Buffon,it ITA,GK,33,35,35,3150,35.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Claudio Marchisio,it ITA,MF,25,36,35,3040,33.8,9,4,9,0,0,7,0,0.27,0.12,0.38,0.27,0.38
+Giorgio Chiellini,it ITA,DF,26,34,34,3023,33.6,2,1,2,0,0,7,0,0.06,0.03,0.09,0.06,0.09
+Andrea Barzagli,it ITA,DF,30,35,34,3013,33.5,1,0,0,1,1,3,0,0.03,0.0,0.03,0.0,0.0
+Stephan Lichtsteiner,ch SUI,DFMF,27,35,34,2957,32.9,2,1,2,0,0,6,0,0.06,0.03,0.09,0.06,0.09
+Arturo Vidal,cl CHI,MF,24,33,30,2632,29.2,7,4,6,1,1,12,1,0.24,0.14,0.38,0.21,0.34
+Mirko Vučinić,me MNE,FW,27,32,29,2292,25.5,9,8,9,0,0,3,1,0.35,0.31,0.67,0.35,0.67
+Leonardo Bonucci,it ITA,DF,24,32,28,2641,29.3,2,0,2,0,0,6,1,0.07,0.0,0.07,0.07,0.07
+Simone Pepe,it ITA,FWMF,27,31,25,2197,24.4,6,3,6,0,0,6,0,0.25,0.12,0.37,0.25,0.37
+Alessandro Matri,it ITA,FW,26,31,23,1913,21.3,10,4,10,0,0,4,0,0.47,0.19,0.66,0.47,0.66
+Paolo De Ceglie,it ITA,DF,24,21,16,1351,15.0,1,2,1,0,0,3,1,0.07,0.13,0.2,0.07,0.2
+Emanuele Giaccherini,it ITA,FWMF,26,23,9,1209,13.4,1,2,1,0,0,2,0,0.07,0.15,0.22,0.07,0.22
+Fabio Quagliarella,it ITA,FW,28,23,9,888,9.9,4,0,4,0,0,2,0,0.41,0.0,0.41,0.41,0.41
+Marcelo Estigarribia,py PAR,DFMF,23,14,9,718,8.0,1,0,1,0,0,0,0,0.13,0.0,0.13,0.13,0.13
+Martín Cáceres,uy URU,DF,24,11,6,715,7.9,1,0,1,0,0,0,0,0.13,0.0,0.13,0.13,0.13
+Marco Borriello,it ITA,FW,29,13,6,589,6.5,2,1,2,0,0,1,0,0.31,0.15,0.46,0.31,0.46
+Alessandro Del Piero,it ITA,FWMF,36,23,4,509,5.7,3,2,3,0,0,0,0,0.53,0.35,0.88,0.53,0.88
+Miloš Krasić,rs SRB,MF,26,7,4,303,3.4,1,0,1,0,0,0,0,0.3,0.0,0.3,0.3,0.3
+Simone Padoin,it ITA,DFMF,27,6,3,302,3.4,1,0,1,0,0,0,0,0.3,0.0,0.3,0.3,0.3
+Marco Storari,it ITA,GK,34,3,3,270,3.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Fabio Grosso,it ITA,DFMF,33,2,2,180,2.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Michele Pazienza,it ITA,MF,28,8,1,150,1.7,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+Luca Marrone,it ITA,DFMF,21,3,1,116,1.3,1,1,1,0,0,0,0,0.78,0.78,1.55,0.78,1.55
+Eljero Elia,nl NED,FWMF,24,4,1,95,1.1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0

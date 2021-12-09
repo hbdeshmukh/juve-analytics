@@ -5,6 +5,10 @@ Created on Wed Dec  8 11:19:49 2021
 This script scrapes the number of matches per season, starting from the
 11-12 season and dump it in a csv file
 
+To run this script, a browser executable needs to be downloaded from
+https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+and put on the path
+
 Data taken from fbref.com
 
 @author: timot
@@ -20,7 +24,7 @@ import os
 
 # Start server and initialize list to save data
 
-s = Service(executable_path="./chromedriver")
+s = Service(executable_path="./chromedriver") # Adjust the path accordingly
 s.start()
 
 num_matches = []
